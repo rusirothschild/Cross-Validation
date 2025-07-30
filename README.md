@@ -16,7 +16,7 @@ This project implements **K-Fold Cross-Validation** from scratch using only NumP
 - Use of NumPy for vectorized operations and data handling
 - Random shuffling with reproducibility via seed
 
-## ⚙️ How to Use
+##  How to Use
 
 ```python
 from cv4 import CV
